@@ -1,5 +1,5 @@
 # NLTK-in-Python
-Purpose - to learn the use of NLTK packageand text analytics in Python
+Purpose - to learn the use of NLTK package and text analytics in Python
 Text Analytics in Python
 Dataset - reviewsAll_Apple.csv
 Columns - ReviewerID, ProductId(asin), Make, Ttle, reviewerName, Helpful, ReviewText, Overall, Summary, reviewDate
